@@ -1,0 +1,4 @@
+#Wed May 08 15:14:31 ALMT 2019
+base.0=/Users/leonid/Desktop/Android-Lab8-Uber-master/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/7
+path.0=classes.dex
+renamed.0=classes.dex
